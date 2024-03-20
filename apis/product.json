@@ -1,0 +1,66 @@
+[
+    {
+        "id" : "1",
+        "tittle" : "javascript fundamentals",
+        "category" : "beginer",
+        "discription" : "basic javascript course for beginners",
+        "price" : "499",
+        "quantity" : "1",
+        "img" : "./assets/JavaScript-logo.png",
+        "incart" : "false"
+    },
+    {
+        "id" : "2",
+        "tittle" : "python fundamentals",
+        "category" : "beginer",
+        "discription" : "basic python course for beginners",
+        "price" : "599",
+        "quantity" : "1",
+        "img" : "./assets/python-symbol.png",
+        "incart" : "false"
+    },
+    {
+        "id" : "3",
+        "tittle" : "mern stack",
+        "category" : "advanced",
+        "discription" : "full stack web dev courde in MERN",
+        "price" : "1999",
+        "quantity" : "1",
+        "img" : "./assets/images.jpeg",
+        "incart" : "false"
+    },
+    {
+        "id" : "4",
+        "tittle" : "django",
+        "category" : "advanced",
+        "discription" : "full stack web dev courde in django",
+        "price" : "1999",
+        "quantity" : "1",
+        "img" : "./assets/images.png",
+        "incart" : "false"
+    },
+    {
+        "id" : "5",
+        "tittle" : "c++",
+        "category" : "intermediate",
+        "discription" : "c++ course",
+        "price" : "599",
+        "quantity" : "1",
+        "img" : "./assets/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png",
+        "incart" : "false"
+
+    },
+    {
+        "id" : "6",
+        "tittle" : "java",
+        "category" : "advanced",
+        "discription" : "advanced java course",
+        "price" : "2",
+        "quantity" : "1",
+        "img" : "./assets/Java-Logo.png",
+        "incart" : "false"
+
+    }
+    
+   
+]
